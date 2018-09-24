@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\PE02.-JimenezRamirezJulioFabián\PE02.-JimenezRamirezJulioFabián\bin\Debug\PE02.-JimenezRamirezJulioFabián.exe.config
+C:\Users\WORKING\source\repos\PE02.-JimenezRamirezJulioFabián\PE02.-JimenezRamirezJulioFabián\bin\Debug\PE02.-JimenezRamirezJulioFabián.exe
+C:\Users\WORKING\source\repos\PE02.-JimenezRamirezJulioFabián\PE02.-JimenezRamirezJulioFabián\bin\Debug\PE02.-JimenezRamirezJulioFabián.pdb
+C:\Users\WORKING\source\repos\PE02.-JimenezRamirezJulioFabián\PE02.-JimenezRamirezJulioFabián\obj\Debug\PE02.-JimenezRamirezJulioFabián.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\PE02.-JimenezRamirezJulioFabián\PE02.-JimenezRamirezJulioFabián\obj\Debug\PE02.-JimenezRamirezJulioFabián.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\PE02.-JimenezRamirezJulioFabián\PE02.-JimenezRamirezJulioFabián\obj\Debug\PE02.-JimenezRamirezJulioFabián.exe
+C:\Users\WORKING\source\repos\PE02.-JimenezRamirezJulioFabián\PE02.-JimenezRamirezJulioFabián\obj\Debug\PE02.-JimenezRamirezJulioFabián.pdb

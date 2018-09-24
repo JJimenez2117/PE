@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\PE06.-JimenezRamirezJulioFabian\PE06.-JimenezRamirezJulioFabian\bin\Debug\PE06.-JimenezRamirezJulioFabian.exe.config
+C:\Users\WORKING\source\repos\PE06.-JimenezRamirezJulioFabian\PE06.-JimenezRamirezJulioFabian\bin\Debug\PE06.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\PE06.-JimenezRamirezJulioFabian\PE06.-JimenezRamirezJulioFabian\bin\Debug\PE06.-JimenezRamirezJulioFabian.pdb
+C:\Users\WORKING\source\repos\PE06.-JimenezRamirezJulioFabian\PE06.-JimenezRamirezJulioFabian\obj\Debug\PE06.-JimenezRamirezJulioFabian.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\PE06.-JimenezRamirezJulioFabian\PE06.-JimenezRamirezJulioFabian\obj\Debug\PE06.-JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\PE06.-JimenezRamirezJulioFabian\PE06.-JimenezRamirezJulioFabian\obj\Debug\PE06.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\PE06.-JimenezRamirezJulioFabian\PE06.-JimenezRamirezJulioFabian\obj\Debug\PE06.-JimenezRamirezJulioFabian.pdb
