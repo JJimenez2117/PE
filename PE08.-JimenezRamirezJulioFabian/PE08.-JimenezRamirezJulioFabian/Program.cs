@@ -21,7 +21,7 @@ namespace PE08._JimenezRamirezJulioFabian
                 }
                 else
                 {
-                    if (cantidad[0] == cantidad[cantidad.Length - 1])
+                    if (cantidad[0] == cantidad[cantidad.Length - 1]&& cantidad[1] == cantidad[cantidad.Length - 2])
                     {
                         Console.WriteLine("es palindroma");
                     }
